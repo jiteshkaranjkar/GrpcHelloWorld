@@ -1,2 +1,2 @@
 # GrpcHelloWorld
-gRPC tryput to use in another project
+gRPC tryout to use it in another project
